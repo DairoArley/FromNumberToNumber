@@ -21,8 +21,7 @@ public class FizzBuzz {
 	
 	public void printFizzBuzz(int from, int to) {
 		for (int i=from; i<=to; i++) {
-			System.out.println( checkFizzBuzz(i) );
-			
+			System.out.println( checkFizzBuzz(i) );			
 		}
 	}
 }
