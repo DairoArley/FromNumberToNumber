@@ -33,7 +33,7 @@ public class FizzBuzz {
 	   multiples of both three and five print "FizzBuzz".
 	 * @param from, initial number.
 	 * @param from, final number. 
-	 * @return this method does not return anithing.
+	 * @return this method does not return anything.
 	 */
 	public void printFizzBuzz(int from, int to) {
 		for (int i=from; i<=to; i++) {
